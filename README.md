@@ -14,7 +14,7 @@
 - 🎓 I'm a Computer Science undergrad diving deep into **AI, Machine Learning, and Web Development**.
 - 🔍 I love building smart, scalable apps that solve real-world problems.
 - 🌱 Currently learning **Deep Learning, System Design**, and building impactful **portfolio projects**.
-- 🚴 Working on a **Solar EV Bike**, a **Hydroponics System**, and AI-based student productivity tools.
+- 🚴 Working on **AI Agents**, Scalable and Smart **Web Applications**, and latest technologies. 
 
 ---
 

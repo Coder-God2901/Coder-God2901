@@ -58,9 +58,9 @@
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="mailto:akshat.coder2901@gmail.com"><img src="https://img.shields.io/badge/Email-akshat.coder2901%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:akjain2904@gmail.com"><img src="https://img.shields.io/badge/Email-akjain2904%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Coder-God2901"><img src="https://img.shields.io/badge/GitHub-Coder--God2901-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/akshat-kumar-9b9484250/"><img src="https://img.shields.io/badge/LinkedIn-akshatkumar-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/akshat-jain2901/"><img src="https://img.shields.io/badge/LinkedIn-akshatjain-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---

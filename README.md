@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- GitHub README.md for Akshat (Coder-God2901) -->
 
-<!--
-**Coder-God2901/Coder-God2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Akshat</h1>
+<h3 align="center">AI Explorer | Web Developer | Tech Adventurer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20about%20AI%20%26%20ML;Full-stack%20Web%20Developer;Innovating%20through%20Tech&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 I'm a Computer Science undergrad diving deep into **AI, Machine Learning, and Web Development**.
+- 🔍 I love building smart, scalable apps that solve real-world problems.
+- 🌱 Currently learning **Deep Learning, System Design**, and building impactful **portfolio projects**.
+- 🚴 Working on a **Solar EV Bike**, a **Hydroponics System**, and AI-based student productivity tools.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+---
+
+## 🧩 Projects & Highlights
+
+| 🚧 Project | 🚀 Tech Used | 🌟 Description |
+|-----------|--------------|----------------|
+| `HopeHaven` | React, Firebase | A food donation platform helping people share excess food with the needy. |
+| `Smart Hydroponics` | Node-RED, IoT | Automates water, nutrient, light & temp for growing plants efficiently. |
+| `AI Segmentation App` | Python, Scikit-learn | Customer clustering for smarter marketing strategies. |
+| `Study Productivity App` | React, AI | Helps students track goals, boost focus, and plan smarter. |
+| `Solar EV Bike` | Hardware + IoT | Designing a lightweight, weather-resistant e-bike. |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder-God2901&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-God2901&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:akshat.coder2901@gmail.com"><img src="https://img.shields.io/badge/Email-akshat.coder2901%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Coder-God2901"><img src="https://img.shields.io/badge/GitHub-Coder--God2901-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/akshat-kumar-9b9484250/"><img src="https://img.shields.io/badge/LinkedIn-akshatkumar-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">⚡ Fun Fact: I’m powered by curiosity, caffeine, and the occasional stack overflow 😄</p>

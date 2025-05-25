@@ -36,13 +36,15 @@
 
 ## 🧩 Projects & Highlights
 
-| 🚧 Project | 🚀 Tech Used | 🌟 Description |
-|-----------|--------------|----------------|
-| `HopeHaven` | React, Firebase | A food donation platform helping people share excess food with the needy. |
-| `Smart Hydroponics` | Node-RED, IoT | Automates water, nutrient, light & temp for growing plants efficiently. |
-| `AI Segmentation App` | Python, Scikit-learn | Customer clustering for smarter marketing strategies. |
-| `Study Productivity App` | React, AI | Helps students track goals, boost focus, and plan smarter. |
-| `Solar EV Bike` | Hardware + IoT | Designing a lightweight, weather-resistant e-bike. |
+| 🚧 Project         | 🚀 Tech Used          | 🌟 Description |
+|--------------------|----------------------|----------------|
+| **RetainIQ**       | Python, ML, Web Dev   | Employee Attrition & Management Platform that helps HR and Executives track employee work/projects and analyzes attrition risk. |
+| **HopeHaven**      | React, Firebase, AI/ML| Charity platform connecting NGOs and donors, matching surplus aids (food, furniture, funds) with those in need using smart AI/ML. |
+| **Carzy**          | React, JS            | Smart car platform listing cars with specs, comparisons, and user reviews for easy decision-making. |
+| **Smart Hydroponics** | Node-RED, IoT       | Automated system managing water, nutrients, and environment for efficient plant growth. |
+| **DELL Laptop & Desktop App** | Python, Tkinter | Desktop application for managing Dell laptop and desktop info with a friendly GUI. |
+
+*...and many more exciting projects coming soon!*
 
 ---
 

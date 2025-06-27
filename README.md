@@ -1,11 +1,7 @@
 <!-- GitHub README.md for Akshat (Coder-God2901) -->
 
 <p align="center">
-  <img src="https://images.pexels.com/photos/4816921/pexels-photo-4816921.jpeg?cs=srgb&dl=pexels-myburgh-4816921.jpg&fm=jpg" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://chatgpt.com/s/m_685ef6328d148191aa694c96c1ebb0b0"/>
+  <img src="ChatGPT Image Jun 28, 2025, 01_23_18 AM.png"/>
 </p>
 
 

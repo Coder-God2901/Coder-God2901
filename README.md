@@ -1,7 +1,6 @@
 <!-- GitHub README.md for Akshat (Coder-God2901) -->
-
 <p align="center">
-  <img src="ChatGPT Image Jun 28, 2025, 01_23_18 AM.png"/>
+  <img src="ChatGPT Image Jun 28, 2025, 01_23_18 AM.png" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 

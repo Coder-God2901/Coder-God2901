@@ -70,7 +70,7 @@
 |--------------|------------|-------------|
 | **RetainIQ** | Flask, Next.js, PostgreSQL | Predictive HR tool for attrition + CRUD dashboard. |
 | **HopeHaven** | Next.js, OpenAI, Tailwind CSS | Real-time donation platform with AI assistant. |
-| **TalentAI** | Flask, Next.js, PostgreSQL  | Matches Candidates and Recruiters based on various AI Features. |
+| **TalentAI** | Flask, Next.js, PostgreSQL  | Matches Candidates and Recruiter with various AI Features. |
 | **NL2SQL Bot** | Python, Groq, PostgreSQL | Converts text queries to SQL with smart fallback. |
 | **Document Chatbot v2** | n8n, Pinecone, Gemini | Semantic search across multi-format files. |
 | **IoT Hydroponics** | Node-RED, JS, Sensors | Smart crop recommendation system. |

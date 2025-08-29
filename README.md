@@ -1,7 +1,6 @@
 <!-- GitHub README.md for Akshat (Coder-God2901) -->
 <p align="center">
   <img src="ChatGPT Image Jun 28, 2025, 01_23_18 AM.png" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" />
-  <img src="hello.gif" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 
@@ -86,14 +85,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Coder-God2901&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-God2901&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Coder-God2901&theme=tokyonight&column=7&margin-w=8" />
 </p>
 
 ---

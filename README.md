@@ -1,6 +1,6 @@
 <!-- GitHub README.md for Akshat (Coder-God2901) -->
 <p align="center">
-  <img src="unnamed.png" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" />
+  <img src="unnamed.png" width="100%" height="800" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 

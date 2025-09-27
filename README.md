@@ -1,7 +1,7 @@
-<!-- GitHub README.md for Akshat (Coder-God2901) 
+<!-- GitHub README.md for Akshat (Coder-God2901) -->
 <p align="center">
-  <img src="200.gif" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" />
-</p>-->
+  <img src="unnamed.png" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" />
+</p>
 
 
 <h2 align="center">Welcome to my digital reality ⚡</h2>
